@@ -133,11 +133,11 @@ Frontend runs at **http://localhost:3001**.
 
 | Method | Endpoint                | Description            |
 |--------|-------------------------|------------------------|
-| POST   | `/api/v1/auth/register` | Register a new user    |
-| POST   | `/api/v1/auth/login`    | Login user & get token |
+| POST   | `/api/v1/user/signin` | Register a new user    |
+| POST   | `/api/v1/user/signup`    | Login user & get token |
 | GET    | `/api/v1/account/balance`| Get user account balance|
 | POST   | `/api/v1/account/transfer`| Transfer money to user|
-| GET    | `/api/v1/users`         | Get list of users      |
+| GET    | `/api/v1/user/bulk`         | Get list of users      |
 
 
 ---
