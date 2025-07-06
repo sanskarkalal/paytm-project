@@ -6,10 +6,9 @@ A full-stack wallet application built with **Express.js**, **JWT**, and **Mongoo
 
 ## 📦 Tech Stack
 
-- **Frontend**: React, Axios, Tailwind CSS (if used)  
+- **Frontend**: React, Axios, Tailwind CSS 
 - **Backend**: Node.js, Express.js, JWT, Mongoose  
 - **Database**: MongoDB Atlas  
-- **Other Tools**: bcrypt, dotenv, cors  
 
 ---
 
